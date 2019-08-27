@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">daftar_kriminal</string>
+    <string name="title">Pengertian Kriminal</string>
+    <string name="desc">Kriminalitas adalah merupakan suatu pola mengenai tingkah laku yang dapat merugikan masyarakat (atau bisa disebut korban) berupa reaksi formal, informal, dan nonformal.</string>
+    <string name="list">Daftar Kriminal Paling Berbahaya</string>
+    <string name="zodiacbio">Zodiac Killer\nNama Asli : Tidak Diketahui</string>
+    <string name="napoleonbio">The Napoleon Of Crime\nNama Asli : Adam Worth</string>
+    <string name="jackbio">Jack The Ripper\nNama Asli : Tidak diketahui </string>
+    <string name="alcaponebio">Scarface\nNama Asli : Alphonse\nGabriel "Al" Capone</string>
+    <string name="barefootbio">Barefoot Bandit\nNama Asli : Colton Harris\nMoore</string>
+    <string name="billybio">Billy The Kid\nNama Asli : Henry McCarty</string>
+    <string name="pembuat">Pembuat</string>
+    <string name="maker">Farhan Hasbi</string>
+</resources>
+
+
+
